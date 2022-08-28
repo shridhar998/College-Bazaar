@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989020368491",
+    "project_id": "college-bazaar-43cac",
+    "storage_bucket": "college-bazaar-43cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989020368491:android:1753cf3b3bc5aca7fb0b2e",
+        "android_client_info": {
+          "package_name": "com.olxfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989020368491-goj0cshrimcj3be36pnaoe5d22ob13qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc-iEASa2dNe1Ab6XKfsVv4jpvoYVfzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989020368491-goj0cshrimcj3be36pnaoe5d22ob13qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
