@@ -6,7 +6,7 @@ College Bazaar is an Android Application which provides college students to sell
 * Razorpay Payment Gateway provided for products
 * Calling facility provided for respective owners
 ## App download link: 
-P.S: There is a small color contrast issue in the app, actually there is a "Don't have an account" link  just below the "Login" button which redirects you to Sign Up page, but in some phones that text is not clearly visible due to white background and grayish-whitish text. If you look closely you'll surely find it sorry for the issue 😅😅😔 
+P.S: There is a small color contrast issue in some devices, actually there is a "Don't have an account" link  just below the "Login" button which redirects you to Sign Up page, but in some phones that text is not clearly visible due to white background and grayish-whitish text. If you look closely you'll surely find it sorry for the issue 😅😅😔 
 https://drive.google.com/file/d/1VPnHmTf95XJ2j5_zRFN_q-jan8aOj_8I/view?usp=drivesdk
 ## Exposure :
 * React Native 
