@@ -8,6 +8,9 @@ College Bazaar is an Android Application which provides college students to sell
 ## App download link: 
 P.S: There is a small color contrast issue in some devices, actually there is a "Don't have an account" link  just below the "Login" button which redirects you to Sign Up page, but in some phones that text is not clearly visible due to white background and grayish-whitish text. If you look closely you'll surely find it sorry for the issue 😅😅😔 
 https://drive.google.com/file/d/1VPnHmTf95XJ2j5_zRFN_q-jan8aOj_8I/view?usp=drivesdk
+## App Video Link:
+You can see working of this app through this video
+https://drive.google.com/file/d/14oHeoSzmWb5UAUh4Ln7xfT36gw_lmUGd/view?usp=drivesdk
 ## Exposure :
 * React Native 
 * RN Paper (UI library)
