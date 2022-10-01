@@ -1,5 +1,10 @@
 # College-Bazaar
-College Bazaar is an Android Application which provides college students to sell and buy old stuff like books, bicycles, motorcycle to/from other students
+College Bazaar is an Android Application which provides college students to sell and buy old stuff like
+* Books, 
+* Bicycles,
+* Motorcycle
+* Labcoat
+* Notes/papers
 ## Provides features such as :
 * Login, Logout, Signup and Authentication for users
 * Users can post new ads as well as see their own ads
