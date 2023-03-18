@@ -11,7 +11,7 @@ College Bazaar is an Android Application which provides college students to sell
 * Razorpay Payment Gateway provided for products
 * Calling facility provided for respective owners
 ## App download: 
-Here is the latest [release]()
+Here is the latest [release](https://github.com/shridhar998/College-Bazaar/releases/download/Publish/app-debug.apk)
 ## App Video Link:
 You can see working of this app through this video
 https://drive.google.com/file/d/14oHeoSzmWb5UAUh4Ln7xfT36gw_lmUGd/view?usp=drivesdk
