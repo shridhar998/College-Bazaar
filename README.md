@@ -10,9 +10,8 @@ College Bazaar is an Android Application which provides college students to sell
 * Users can post new ads as well as see their own ads
 * Razorpay Payment Gateway provided for products
 * Calling facility provided for respective owners
-## App download link: 
-P.S: There is a small color contrast issue in some devices
-https://drive.google.com/file/d/1VPnHmTf95XJ2j5_zRFN_q-jan8aOj_8I/view?usp=drivesdk
+## App download: 
+Here is the latest [release]()
 ## App Video Link:
 You can see working of this app through this video
 https://drive.google.com/file/d/14oHeoSzmWb5UAUh4Ln7xfT36gw_lmUGd/view?usp=drivesdk
